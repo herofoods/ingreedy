@@ -61,6 +61,8 @@
     - "grams"
     - "gramme"
     - "grammes"
+    - "gm"
+    - "gms"
   :kilogram:
     - "kg"
     - "kg."
@@ -82,6 +84,14 @@
     - "milligrams"
     - "milligramme"
     - "milligrammes"
+  :microgram:
+    - "mcg"
+    - "mcg."
+    - "microgram"
+    - "micrograms"
+    - "microgramme"
+    - "microgrammes"
+    - "μg"
   :milliliter:
     - "ml"
     - "ml."
@@ -112,6 +122,12 @@
     - "can"
   :to_taste:
     - "to taste"
+  :international_unit:
+    - "international unit"
+    - "international units"
+    - "int. unit"
+    - "int. units"
+    - "IU"
 :numbers:
   a: 1
   an: 1
